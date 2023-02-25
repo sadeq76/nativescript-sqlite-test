@@ -1,0 +1,15 @@
+{
+  "name": "new-app",
+  "main": "app/app.js",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@nativescript/core": "~8.4.0",
+    "@nativescript/theme": "~3.0.2",
+    "nativescript-vue": "~2.9.2"
+  },
+  "devDependencies": {
+    "@nativescript/webpack": "~5.0.12",
+    "nativescript-vue-template-compiler": "~2.9.2"
+  }
+}
